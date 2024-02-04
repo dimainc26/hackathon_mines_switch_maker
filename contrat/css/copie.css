@@ -1,0 +1,59 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	width: 100%;
+	margin-left: 20px;
+	background: #cacaca;
+}
+
+.corps {
+	max-width: 1250px;
+	font-size: 24px;
+	font-family: Roboto;
+}
+
+.corps .titre {
+	text-align: center;
+	background: #8f8f8f;
+	padding-top: 15px;
+}
+
+.formulaire {
+	position: relative;
+	width: 60%;
+	max-width: 100%;
+	margin: 5px;
+    height: 100%;
+    top: 0;
+    left: 0;
+    border: none;
+    outline: none;
+    padding: 0.5rem 0.7rem;
+    font-size: 24px;
+	color: #1a0808;
+}
+
+.form-control {
+	background: white;
+	width: 200px;
+	height: 35px;
+	border-style: none;
+	font-size: 22px;
+	padding-left: 5px;
+}
+
+.bouton {
+
+	width: 60%;
+	height: 50%;
+    border-radius: 25px;
+    margin: 1rem 0;
+    font-size: 30px;
+    outline: none;
+    border: none;
+    font-family: 'MuseoModerno', cursive;
+
+}
